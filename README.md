@@ -1,2 +1,2 @@
 # collage
-sound files manipulation
+soundfiles manipulation
